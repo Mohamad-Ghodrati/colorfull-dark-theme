@@ -17,8 +17,6 @@ This project is heavily based on:
 
 - **[Atom One Dark Theme](https://github.com/akamud/vscode-theme-onedark/tree/master)** by [akamud](https://github.com/akamud) - [MIT License](LICENSE.original)
 
----
-
 ## Installation
 
 > **Note:** For best experience, use with **[Fira Code](https://github.com/tonsky/FiraCode)** font.
