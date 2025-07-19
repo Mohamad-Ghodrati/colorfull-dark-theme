@@ -31,7 +31,7 @@ This project is heavily based on:
 
 Here are some previews of this theme in different languages:
 
-|  |  |
+| / | Preview |
 |----------|---------|
 | **Python** | <img src="screenshots/python.png" alt="Python Screenshot" width="400"> |
 | **JavaScript** | <img src="screenshots/js.png" alt="JavaScript Screenshot" width="400"> |
