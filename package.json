@@ -1,0 +1,21 @@
+{
+  "name": "colorfull-dark-theme",
+  "displayName": "ColorFull Dark Theme",
+  "description": "A vibrant, colorful theme for VS Code based on Atom's One Dark, with colorful syntax highlighting.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ColorFull",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ColorFull-color-theme.json"
+      }
+    ]
+  }
+}
